@@ -1,0 +1,6 @@
+
+Para poder ver 
+
+los cambios 
+
+git checkout debes hacer 

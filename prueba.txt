@@ -4,3 +4,5 @@ Para poder ver
 los cambios 
 
 git checkout debes hacer 
+
+ahora agrego mas owo 
